@@ -34,6 +34,7 @@ namespace WpfApp1
         {
             var window = new Window1();
             window.Show();
+            Close();
         }
     }
 }

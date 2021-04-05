@@ -1,0 +1,15 @@
+D:\WPF\WPF_Practice\WpfApp1\list_cotain_trainning\bin\Debug\list_cotain_trainning.exe.config
+D:\WPF\WPF_Practice\WpfApp1\list_cotain_trainning\bin\Debug\list_cotain_trainning.exe
+D:\WPF\WPF_Practice\WpfApp1\list_cotain_trainning\bin\Debug\list_cotain_trainning.pdb
+D:\WPF\WPF_Practice\WpfApp1\list_cotain_trainning\obj\Debug\MainWindow.g.cs
+D:\WPF\WPF_Practice\WpfApp1\list_cotain_trainning\obj\Debug\App.g.cs
+D:\WPF\WPF_Practice\WpfApp1\list_cotain_trainning\obj\Debug\list_cotain_trainning_MarkupCompile.cache
+D:\WPF\WPF_Practice\WpfApp1\list_cotain_trainning\obj\Debug\list_cotain_trainning_MarkupCompile.lref
+D:\WPF\WPF_Practice\WpfApp1\list_cotain_trainning\obj\Debug\MainWindow.baml
+D:\WPF\WPF_Practice\WpfApp1\list_cotain_trainning\obj\Debug\list_cotain_trainning.g.resources
+D:\WPF\WPF_Practice\WpfApp1\list_cotain_trainning\obj\Debug\list_cotain_trainning.Properties.Resources.resources
+D:\WPF\WPF_Practice\WpfApp1\list_cotain_trainning\obj\Debug\list_cotain_trainning.csproj.GenerateResource.cache
+D:\WPF\WPF_Practice\WpfApp1\list_cotain_trainning\obj\Debug\list_cotain_trainning.csproj.CoreCompileInputs.cache
+D:\WPF\WPF_Practice\WpfApp1\list_cotain_trainning\obj\Debug\list_cotain_trainning.exe
+D:\WPF\WPF_Practice\WpfApp1\list_cotain_trainning\obj\Debug\list_cotain_trainning.pdb
+D:\WPF\WPF_Practice\WpfApp1\list_cotain_trainning\obj\Debug\list_cotain_trainning.csprojAssemblyReference.cache
